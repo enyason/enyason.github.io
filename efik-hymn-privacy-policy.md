@@ -29,6 +29,22 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+**Device permissions for Personal Data access**
+
+Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
+
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
+The exact procedure for controlling app permissions may be dependent on the User's device and software.
+
+Please note that the revoking of such permissions might impact the proper functioning of this Application.
+
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
+
+**Phone permission**
+
+Used for accessing a host of typical features associated with telephony. This enables, for instance, read-only access to the “phone state”, which means it enables access to the phone number of the device, current mobile network information, or the status of any ongoing calls.
+
+
 **Service Providers**
 
 We may employ third-party companies and individuals due to the following reasons:
